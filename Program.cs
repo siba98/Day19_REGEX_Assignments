@@ -50,7 +50,7 @@ namespace Day19_REGEX_Assignments
 
             #region UC5 , UC6 , UC7 , UC8
             UC5_6_7_8_Password pattern5 = new UC5_6_7_8_Password();
-            Console.WriteLine(pattern5.ValidatePassword("TKls9sd6?"));
+            Console.WriteLine(pattern5.ValidatePassword("T0&Uskwib7"));
             #endregion
         }
     }
